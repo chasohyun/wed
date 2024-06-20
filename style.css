@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 블럭 1번 */
+.box1{
+    width: 100%;
+    height: 800px;
+    background-image: url(img/bg01.png);
+    background-position: center;
+    background-size: cover;
+}
+.con1{
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    position: relative;
+}
+.img02{
+    display: block;
+    position: absolute;
+    top: 231px;
+    left: 32px;
+}
+.img03{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 30px;
+}
+/* 블럭 2번 */
+.box2{
+    width: 100%;
+    height: 200;
+    background-color: #FF9213;
+}
+.con2{
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.txt1{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: bottom;
+}
+
+/* 블럭 3번 */
+.box3{
+    width: 100%;
+    height: 993px;
+    background-image: url(img/bg02.png);
+    background-position: center;
+    background-size: cover;
+}
+.con3{
+    width: 1000px;
+    height: 993px;
+    margin: 0 auto;
+}   
+.img05{
+    display: block;
+    margin: 0 auto;
+    padding-top: 96px;
+}
+.txt2{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+/* 블럭 4번 */
+.box4{
+    width: 100%;
+    height: 858px;
+    background-image: url(img/bg03.png);
+    background-position: center;
+    background-size: cover;
+}
+.con4{
+    width: 1000px;
+    height: 858px;
+    margin: 0 auto;
+}
+.img06{
+    display: block;
+    position: absolute;
+    text-align: start;
+    
+}
+.txt3{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    color: #ffffff;
+    text-align: right;
+
+}
+
+/* 블럭 5번 */
+.box5{
+    width: 100%;
+    height: 800px;
+    background-image: url(img/bg04.png);
+    background-position: center;
+    background-size: cover;
+}
+.con5{
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.img07{
+    display: block;
+    position: absolute;
+    left: 670px;
+    margin:0 auto;
+} 
